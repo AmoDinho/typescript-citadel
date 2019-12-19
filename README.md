@@ -1,11 +1,15 @@
-# TypeScript Citadel
+# TypeScript Citadel 🧜‍♂️
 
 TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. This repo houses a bunch of links I've come across and hopefully some explantions on some key concepts -_-
 
-## Random Links
+[TypeScript Playground ](https://www.typescriptlang.org/play/index.html)
 
+## TypeScript spefic things
 
-[]()
+[Declaration Files](http://www.typescriptlang.org/docs/handbook/declaration-files/introduction.html)
+[How can I write and use custom declaration files that don't exist on DefinitelyTyped?](https://stackoverflow.com/questions/44796039/how-can-i-write-and-use-custom-declaration-files-that-dont-exist-on-definitelyt)
+
+## Random Links 🔗
 
 
 
@@ -19,6 +23,8 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. 
  
 [GETTING STARTED WITH GRAPHQL AND TYPESCRIPT](https://pusher.com/tutorials/graphql-typescript)
 [serverless-graphql-typescript](https://github.com/causecode/serverless-graphql-typescript)
+[graphql-typescript-definitions](https://github.com/shopify/graphql-tools-web/tree/master/packages/graphql-typescript-definitions) 
+
 
 [Unambiguous Webpack config with Typescript
 ](https://medium.com/webpack/unambiguous-webpack-config-with-typescript-8519def2cac7)
