@@ -30,6 +30,14 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. 
 ](https://medium.com/webpack/unambiguous-webpack-config-with-typescript-8519def2cac7)
 
 
+ ## Courses/Books
  
+ [TypeScript Fundamentals](https://github.com/mike-works/typescript-fundamentals)
+ 
+ [TypeScript DeepDive](https://basarat.gitbook.io/typescript/)
+ 
+ ## Library starters
+ 
+ [TypeScript library starter](https://github.com/alexjoverm/typescript-library-starter)
 
 
