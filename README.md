@@ -3,6 +3,7 @@
 TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. This repo houses a bunch of links I've come across and hopefully some explantions on some key concepts -_-
 
 [TypeScript Playground ](https://www.typescriptlang.org/play/index.html)
+[TypeScript Reddit](https://www.reddit.com/r/typescript/)
 
 ## TypeScript spefic things
 
@@ -29,14 +30,15 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. 
 [Unambiguous Webpack config with Typescript
 ](https://medium.com/webpack/unambiguous-webpack-config-with-typescript-8519def2cac7)
 
+[In Typescript what does <T> mean?](https://stackoverflow.com/questions/49622045/in-typescript-what-does-t-mean)
 
- ## Courses/Books
+ ## Courses/Books 👯‍♀️
  
  [TypeScript Fundamentals](https://github.com/mike-works/typescript-fundamentals)
  
  [TypeScript DeepDive](https://basarat.gitbook.io/typescript/)
  
- ## Library starters
+ ## Library starters  📀
  
  [TypeScript library starter](https://github.com/alexjoverm/typescript-library-starter)
 
